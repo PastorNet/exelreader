@@ -1,2 +1,2 @@
 # exelreader
-Simply-parser for schedule_tables
+Simply-parser for schedule in .xlsx
